@@ -1,0 +1,11 @@
+body{
+  background-color: #637E76;
+}
+
+.add-note{
+  height: 30px;
+  /* width: 50%; */
+  text-align: center;
+  margin-top: -50px;
+  border-radius: 50px;
+}
